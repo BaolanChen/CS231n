@@ -10,7 +10,7 @@ Stanford-CS231n
 
 - CS231n是斯坦福大学出品的深度学习与计算机视觉方向专业课程，全称是 CS231n: Convolutional Neural Networks for Visual Recognition。
 - 本项目为记录CS231n课程中的学习过程与assignment代码记录。
-- 课程网站：http://cs231n.stanford.edu/syllabus.html
+- 课程网站：https://cs231n.stanford.edu/
   
   
 
